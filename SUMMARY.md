@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Notebook](README.md)
+* [Objective](README.md)
 
